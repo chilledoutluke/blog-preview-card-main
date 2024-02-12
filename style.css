@@ -22,7 +22,7 @@ body {
 
 .container {
     padding: 2em;
-    border-radius: 10px;
+    border-radius: 20px;
     max-width: 20rem;
     display: block;
     background-color: var(--white);
@@ -34,7 +34,6 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    border-radius: 20px;
 }
 
 
