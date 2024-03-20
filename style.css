@@ -51,7 +51,8 @@ body {
 /* Button */
 
 .btn {
-    padding-top: 1.2em;
+    padding-left: 0.6em;
+    padding-top: 0.6em;
 }
 
 button {
@@ -64,8 +65,13 @@ button {
 
 
 /* info */
+.info {
+    padding-left: 0.6em;
+}
 
-
+.info h1 {
+    font-size: 1.5em;
+}
 
 /* avatar */
 
