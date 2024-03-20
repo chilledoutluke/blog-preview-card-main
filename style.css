@@ -26,6 +26,9 @@ body {
     max-width: 20rem;
     display: block;
     background-color: var(--white);
+    border: 1px solid;
+    padding: 0.625em;
+    box-shadow: 0.5em 0.625em;
 }
 
 /* image */
@@ -34,6 +37,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    padding: 0.625em;
 }
 
 
@@ -55,6 +59,7 @@ button {
     border-radius: 5px;
     background-color: var(--primary-yellow);
     border-style: none;
+    font-weight: 2em;
 }
 
 
