@@ -21,13 +21,12 @@ body {
 /* container  */
 
 .container {
-    padding: 10em;
+    padding: 1em;
     border-radius: 20px;
-    max-width: 24rem;
+    max-width: 22rem;
     display: block;
     background-color: var(--white);
     border: 1px solid;
-    padding: 0.625em;
     box-shadow: 0.5em 0.625em;
 }
 
@@ -37,7 +36,8 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 0.625em;
+    height: auto;
+    width: 22em;
 }
 
 
