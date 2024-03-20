@@ -78,16 +78,22 @@ button {
 }
 
 /* avatar */
+.avatar {
+    display: flex;
+}
+
+.avatar img {
+    height: auto;
+    width: 2.5em;
+    padding: 1em;
+}
 
 
+/* Footer */
 
-
-
-
-
-
-
-
+footer {
+    padding: 3em;
+}
 
 .attribution { 
     font-size: 11px; 
