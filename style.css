@@ -23,7 +23,7 @@ body {
 .container {
     padding: 2em;
     border-radius: 20px;
-    max-width: 20rem;
+    max-width: 24rem;
     display: block;
     background-color: var(--white);
     border: 1px solid;
@@ -64,6 +64,7 @@ button {
 
 
 /* info */
+
 
 
 /* avatar */
